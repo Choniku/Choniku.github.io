@@ -243,7 +243,8 @@ section{
     flex-wrap: wrap;
 }
 .footer{
-    padding: 10px;
+    padding: 100px;
+    margin: auto;
     background-color: black;
 }
 .col{
@@ -300,6 +301,10 @@ section{
     transform: scale(1.2);
     color: var(--bg-color);
     background: var(--text-color);
+}
+
+.asede{
+    background-color: black;
 }
 
 @media (max-with: 1560px){
